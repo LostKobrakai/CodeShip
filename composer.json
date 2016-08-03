@@ -19,5 +19,8 @@
   "autoload": {
     "files": [ "wire/core/ProcessWire.php" ]
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "require-dev": {
+    "crysalead/kahlan": "^2.5"
+  }
 }
